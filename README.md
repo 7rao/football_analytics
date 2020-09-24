@@ -8,5 +8,5 @@ Within the notebooks repository, analysis is split in the following sections:
 
 Scraped / cleaned data is made available where possible. Some data sources are a little too large to be uploaded to GitHub, however, all the notebooks in this repository, specifically in the Data Parsing and Data Engineering notebooks, all go through and explain the code that will allow you to acquire this data.
 
-Please see [public.tableau.com/profile/edd.webster/](https://public.tableau.com/profile/edd.webster/) for Tableau visualisations and dashboards of the data in acquired, cleaned and fuzzy-matched in this repository.
+Please see [public.tableau.com/profile/edd.webster/](https://public.tableau.com/profile/edd.webster/) for Tableau visualisations and dashboards of the data acquired, cleaned and fuzzy-matched in this repository.
 
