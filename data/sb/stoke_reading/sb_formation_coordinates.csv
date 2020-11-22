@@ -1,0 +1,243 @@
+﻿Id,Formation,Player_Number,Player_Position,Player_Position_Abv,X,Y
+1,4-3-3,1,Goalkeeper,GK,25,5
+2,4-3-3,2,Right Back,RB,42,16
+3,4-3-3,3,Right Center Back,RCB,30,12
+4,4-3-3,5,Left Center Back,LCB,20,12
+5,4-3-3,6,Left Back,LB,8,16
+6,4-3-3,10,Center Defensive Midfield,DM,25,22
+7,4-3-3,13,Right Center Midfield,RCM,35,27
+8,4-3-3,15,Left Center Midfield,LCM,15,27
+9,4-3-3,17,Right Wing,RW,39,36
+10,4-3-3,21,Left Wing,LW,11,36
+11,4-3-3,23,Center Forward,CF,25,40
+12,4-2-3-1,1,Goalkeeper,GK,25,5
+13,4-2-3-1,2,Right Back,RB,42,16
+14,4-2-3-1,3,Right Center Back,RCB,30,12
+15,4-2-3-1,5,Left Center Back,LCB,20,12
+16,4-2-3-1,6,Left Back,LB,8,16
+17,4-2-3-1,9,Right Defensive Midfield,RDM,32,22
+18,4-2-3-1,11,Left Defensive Midfield,LDM,18,22
+19,4-2-3-1,17,Right Wing,RW,38,32
+20,4-2-3-1,19,Center Attacking Midfield,CAM,25,32
+21,4-2-3-1,21,Left Wing,LW,12,32
+22,4-2-3-1,23,Center Forward,CF,25,42
+23,4-2-2-1-1,1,Goalkeeper,GK,25,5
+24,4-2-2-1-1,2,Right Back,RB,42,16
+25,4-2-2-1-1,3,Right Center Back,RCB,30,12
+26,4-2-2-1-1,5,Left Center Back,LCB,20,12
+27,4-2-2-1-1,6,Left Back,LB,8,16
+28,4-2-2-1-1,9,Right Defensive Midfield,RDM,32,22
+29,4-2-2-1-1,11,Left Defensive Midfield,LDM,18,22
+30,4-2-2-1-1,12,Right Midfield,RM,42,27
+31,4-2-2-1-1,16,Left Midfield,LM,8,27
+32,4-2-2-1-1,19,Center Attacking Midfield,CAM,25,32
+33,4-2-2-1-1,23,Center Forward,CF,25,40
+34,4-4-2,1,Goalkeeper,GK,25,5
+35,4-4-2,2,Right Back,RB,42,16
+36,4-4-2,3,Right Center Back,RCB,30,12
+37,4-4-2,5,Left Center Back,LCB,20,12
+38,4-4-2,6,Left Back,LB,8,16
+39,4-4-2,9,Right Defensive Midfield,RDM,32,27
+40,4-4-2,11,Left Defensive Midfield,LDM,18,27
+41,4-4-2,12,Right Midfield,RM,42,27
+42,4-4-2,16,Left Midfield,LM,8,27
+43,4-4-2,22,Right Center Forward,RCF,30,40
+44,4-4-2,24,Left Center Forward,LCF,20,40
+45,4-3-2-1,1,Goalkeeper,GK,25,5
+46,4-3-2-1,2,Right Back,RB,42,16
+47,4-3-2-1,3,Right Center Back,RCB,30,12
+48,4-3-2-1,5,Left Center Back,LCB,20,12
+49,4-3-2-1,6,Left Back,LB,8,16
+50,4-3-2-1,12,Right Midfield,RM,42,27
+51,4-3-2-1,14,Center Midfield,CM,25,27
+52,4-3-2-1,16,Left Midfield,LM,8,27
+53,4-3-2-1,17,Right Wing,RW,39,36
+54,4-3-2-1,21,Left Wing,LW,11,36
+55,4-3-2-1,23,Center Forward,CF,25,40
+56,4-2-2-2,1,Goalkeeper,GK,25,5
+57,4-2-2-2,2,Right Back,RB,42,16
+58,4-2-2-2,3,Right Center Back,RCB,30,12
+59,4-2-2-2,5,Left Center Back,LCB,20,12
+60,4-2-2-2,6,Left Back,LB,8,16
+61,4-2-2-2,13,Right Defensive Midfield,RDM,32,22
+62,4-2-2-2,15,Left Defensive Midfield,LDM,18,22
+63,4-2-2-2,17,Right Wing,RW,38,32
+64,4-2-2-2,21,Left Wing,LW,12,32
+65,4-2-2-2,22,Right Center Forward,RCF,30,40
+66,4-2-2-2,24,Left Center Forward,LCF,20,40
+67,4-1-2-2-1,1,Goalkeeper,GK,25,5
+68,4-1-2-2-1,2,Right Back,RB,42,16
+69,4-1-2-2-1,3,Right Center Back,RCB,30,12
+70,4-1-2-2-1,5,Left Center Back,LCB,20,12
+71,4-1-2-2-1,6,Left Back,LB,8,16
+72,4-1-2-2-1,10,Center Defensive Midfield,CDM,25,22
+73,4-1-2-2-1,13,Right Center Midfield,,30,27
+74,4-1-2-2-1,15,Left Center Midfield,,20,27
+75,4-1-2-2-1,17,Right Wing,RW,38,32
+76,4-1-2-2-1,21,Left Wing,LW,12,32
+77,4-1-2-2-1,23,Center Forward,CF,25,40
+78,4-4-1-1,1,Goalkeeper,GK,25,5
+79,4-4-1-1,2,Right Back,RB,42,16
+80,4-4-1-1,3,Right Center Back,RCB,30,12
+81,4-4-1-1,5,Left Center Back,LCB,20,12
+82,4-4-1-1,6,Left Back,LB,8,16
+83,4-4-1-1,9,Right Defensive Midfield,RDM,32,22
+84,4-4-1-1,11,Left Defensive Midfield,LDM,18,22
+85,4-4-1-1,12,Right Midfield,RM,42,27
+86,4-4-1-1,16,Left Midfield,LM,8,27
+87,4-4-1-1,19,Center Attacking Midfield,CAM,25,32
+88,4-4-1-1,23,Center Forward,CF,25,40
+89,4-1-4-1,1,Goalkeeper,GK,25,5
+90,4-1-4-1,2,Right Back,RB,42,16
+91,4-1-4-1,3,Right Center Back,RCB,30,12
+92,4-1-4-1,5,Left Center Back,LCB,20,12
+93,4-1-4-1,6,Left Back,LB,8,16
+94,4-1-4-1,10,Center Defensive Midfield,CDM,25,22
+95,4-1-4-1,12,Right Midfield,RM,42,27
+96,4-1-4-1,13,Right Center Midfield,,30,27
+97,4-1-4-1,15,Left Center Midfield,,20,27
+98,4-1-4-1,16,Left Midfield,LM,8,27
+99,4-1-4-1,23,Center Forward,CF,25,40
+100,4-1-2-1-2,1,Goalkeeper,GK,25,5
+101,4-1-2-1-2,2,Right Back,RB,42,16
+102,4-1-2-1-2,3,Right Center Back,RCB,30,12
+103,4-1-2-1-2,5,Left Center Back,LCB,20,12
+104,4-1-2-1-2,6,Left Back,LB,8,16
+105,4-1-2-1-2,10,Center Defensive Midfield,CDM,25,22
+106,4-1-2-1-2,13,Right Center Midfield,,30,27
+107,4-1-2-1-2,15,Left Center Midfield,,20,27
+108,4-1-2-1-2,19,Center Attacking Midfield,CAM,25,32
+109,4-1-2-1-2,22,Right Center Forward,RCF,30,40
+110,4-1-2-1-2,24,Left Center Forward,LCF,20,40
+111,4-2-1-2-1,1,Goalkeeper,GK,25,5
+112,4-2-1-2-1,2,Right Back,RB,42,16
+113,4-2-1-2-1,3,Right Center Back,RCB,30,12
+114,4-2-1-2-1,5,Left Center Back,LCB,20,12
+115,4-2-1-2-1,6,Left Back,LB,8,16
+116,4-2-1-2-1,9,Right Defensive Midfield,RDM,32,22
+117,4-2-1-2-1,11,Left Defensive Midfield,LDM,18,22
+118,4-2-1-2-1,14,Center Midfield,,25,27
+119,4-2-1-2-1,17,Right Wing,RW,38,32
+120,4-2-1-2-1,21,Left Wing,LW,12,32
+121,4-2-1-2-1,23,Center Forward,CF,25,40
+122,4-5-1,1,Goalkeeper,GK,25,5
+123,4-5-1,2,Right Back,RB,42,16
+124,4-5-1,3,Right Center Back,RCB,30,12
+125,4-5-1,5,Left Center Back,LCB,20,12
+126,4-5-1,6,Left Back,LB,8,16
+127,4-5-1,12,Right Midfield,RM,42,27
+128,4-5-1,13,Right Center Midfield,,30,27
+129,4-5-1,14,Center Midfield,,25,27
+130,4-5-1,15,Left Center Midfield,,20,27
+131,4-5-1,16,Left Midfield,LM,8,27
+132,4-5-1,23,Center Forward,CF,25,40
+133,4-3-1-2,1,Goalkeeper,GK,25,5
+134,4-3-1-2,2,Right Back,RB,42,16
+135,4-3-1-2,3,Right Center Back,RCB,30,12
+136,4-3-1-2,5,Left Center Back,LCB,20,12
+137,4-3-1-2,6,Left Back,LB,8,16
+138,4-3-1-2,13,Right Center Midfield,,30,27
+139,4-3-1-2,14,Center Midfield,,25,27
+140,4-3-1-2,15,Left Center Midfield,,20,27
+141,4-3-1-2,19,Center Attacking Midfield,CAM,25,32
+142,4-3-1-2,22,Right Center Forward,RCF,30,40
+143,4-3-1-2,24,Left Center Forward,LCF,20,40
+144,3-2-3-2,1,Goalkeeper,GK,25,5
+145,3-2-3-2,3,Right Center Back,RCB,35,12
+146,3-2-3-2,4,Center Back,CB,25,12
+147,3-2-3-2,5,Left Center Back,LCB,15,12
+148,3-2-3-2,7,Right Wing Back,,42,27
+149,3-2-3-2,8,Left Wing Back,,8,27
+150,3-2-3-2,13,Right Center Midfield,,30,27
+151,3-2-3-2,14,Center Midfield,,25,27
+152,3-2-3-2,15,Left Center Midfield,,20,27
+153,3-2-3-2,22,Right Center Forward,RCF,30,40
+154,3-2-3-2,24,Left Center Forward,LCF,20,40
+155,3-4-2-1,1,Goalkeeper,GK,25,5
+156,3-4-2-1,3,Right Center Back,RCB,35,12
+157,3-4-2-1,4,Center Back,CB,25,12
+158,3-4-2-1,5,Left Center Back,LCB,15,12
+159,3-4-2-1,7,Right Wing Back,,42,27
+160,3-4-2-1,8,Left Wing Back,,8,27
+161,3-4-2-1,9,Right Defensive Midfield,RDM,32,22
+162,3-4-2-1,11,Left Defensive Midfield,LDM,18,22
+163,3-4-2-1,18,Right Attacking Midfield,RAM,38,32
+164,3-4-2-1,20,Left Attacking Midfield,LAM,12,32
+165,3-4-2-1,23,Center Forward,CF,25,40
+166,3-2-2-2-1,1,Goalkeeper,GK,25,5
+167,3-2-2-2-1,3,Right Center Back,RCB,35,12
+168,3-2-2-2-1,4,Center Back,CB,25,12
+169,3-2-2-2-1,5,Left Center Back,LCB,15,12
+170,3-2-2-2-1,9,Right Defensive Midfield,RDM,32,22
+171,3-2-2-2-1,11,Left Defensive Midfield,LDM,18,22
+172,3-2-2-2-1,12,Right Midfield,RM,42,27
+173,3-2-2-2-1,16,Left Midfield,LM,8,27
+174,3-2-2-2-1,18,Right Attacking Midfield,RAM,38,32
+175,3-2-2-2-1,20,Left Attacking Midfield,LAM,12,32
+176,3-2-2-2-1,23,Center Forward,CF,25,40
+177,3-1-4-2,1,Goalkeeper,GK,25,5
+178,3-1-4-2,3,Right Center Back,RCB,35,12
+179,3-1-4-2,4,Center Back,CB,25,12
+180,3-1-4-2,5,Left Center Back,LCB,15,12
+181,3-1-4-2,10,Center Defensive Midfield,CDM,25,22
+182,3-1-4-2,12,Right Midfield,RM,42,27
+183,3-1-4-2,13,Right Center Midfield,,30,27
+184,3-1-4-2,15,Left Center Midfield,,20,27
+185,3-1-4-2,16,Left Midfield,LM,8,27
+186,3-1-4-2,22,Right Center Forward,RCF,30,40
+187,3-1-4-2,24,Left Center Forward,LCF,20,40
+188,3-5-1-1,1,Goalkeeper,GK,25,5
+189,3-5-1-1,3,Right Center Back,RCB,35,12
+190,3-5-1-1,4,Center Back,CB,25,12
+191,3-5-1-1,5,Left Center Back,LCB,15,12
+192,3-5-1-1,12,Right Midfield,RM,42,27
+193,3-5-1-1,13,Right Center Midfield,,30,27
+194,3-5-1-1,14,Center Midfield,,25,27
+195,3-5-1-1,15,Left Center Midfield,,20,27
+196,3-5-1-1,16,Left Midfield,LM,8,27
+197,3-5-1-1,23,Center Forward,CF,25,40
+198,3-5-1-1,25,Secondary Striker,,25,36
+199,3-4-1-2,1,Goalkeeper,GK,25,5
+200,3-4-1-2,3,Right Center Back,RCB,35,12
+201,3-4-1-2,4,Center Back,CB,25,12
+202,3-4-1-2,5,Left Center Back,LCB,15,12
+203,3-4-1-2,7,Right Wing Back,,42,27
+204,3-4-1-2,8,Left Wing Back,,8,27
+205,3-4-1-2,9,Right Defensive Midfield,RDM,32,22
+206,3-4-1-2,11,Left Defensive Midfield,LDM,18,22
+207,3-4-1-2,19,Center Attacking Midfield,CAM,25,32
+208,3-4-1-2,22,Right Center Forward,RCF,30,40
+209,3-4-1-2,24,Left Center Forward,LCF,20,40
+210,3-4-3,1,Goalkeeper,GK,25,5
+211,3-4-3,3,Right Center Back,RCB,35,12
+212,3-4-3,4,Center Back,CB,25,12
+213,3-4-3,5,Left Center Back,LCB,15,12
+214,3-4-3,7,Right Wing Back,,42,27
+215,3-4-3,8,Left Wing Back,,8,27
+216,3-4-3,13,Right Center Midfield,,30,27
+217,3-4-3,15,Left Center Midfield,,20,27
+218,3-4-3,17,Right Wing,RW,39,36
+219,3-4-3,21,Left Wing,LW,11,36
+220,3-4-3,23,Center Forward,CF,25,40
+221,3-5-2,1,Goalkeeper,GK,25,5
+222,3-5-2,3,Right Center Back,RCB,35,12
+223,3-5-2,4,Center Back,CB,25,12
+224,3-5-2,5,Left Center Back,LCB,15,12
+225,3-5-2,7,Right Wing Back,,42,27
+226,3-5-2,8,Left Wing Back,,8,27
+227,3-5-2,10,Center Defensive Midfield,CDM,25,22
+228,3-5-2,13,Right Center Midfield,,30,27
+229,3-5-2,15,Left Center Midfield,,20,27
+230,3-5-2,22,Right Center Forward,RCF,30,40
+231,3-5-2,24,Left Center Forward,LCF,20,40
+232,5-2-2-1,1,Goalkeeper,GK,25,5
+233,5-2-2-1,2,Right Back,RB,42,16
+234,5-2-2-1,3,Right Center Back,RCB,35,12
+235,5-2-2-1,4,Center Back,CB,25,12
+236,5-2-2-1,5,Left Center Back,LCB,15,12
+237,5-2-2-1,6,Left Back,LB,8,16
+238,5-2-2-1,13,Right Center Midfield,,30,27
+239,5-2-2-1,15,Left Center Midfield,,20,27
+240,5-2-2-1,17,Right Wing,RW,39,36
+241,5-2-2-1,21,Left Wing,LW,11,36
+242,5-2-2-1,23,Center Forward,CF,25,40
